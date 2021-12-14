@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 14 19:45:58 2021
 
-@author: Fen Lisesi
+@author: furkansakin7
 """
 t = int(input())
 for t in range (0,t):
